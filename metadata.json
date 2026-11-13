@@ -1,0 +1,6 @@
+{
+  "name": "Arcos Dorados — Análisis Crítico Reporte 2025",
+  "description": "Presentación interactiva: Análisis crítico del Reporte de Impacto Social y Desarrollo Sostenible 2025 de Arcos Dorados (ITBA · RSE 2026).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
